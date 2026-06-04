@@ -156,7 +156,7 @@ body {
     left: -5px;                     /* Start just behind the first character */
     width: calc(100% + 45px);        /* Cover the word and extend 40px past the end */
     height: 2.5rem;                  /* Make the stroke much thicker */
-    background-image: url('images/UNderLine.png');
+    background-image: url('images/UnderLine.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100% 100%;
